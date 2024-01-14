@@ -36,6 +36,8 @@ This project will help remind me about what I should do in particular time. It w
 - Buzzer x 1
 - Cable wires
 
+![Image alternative text](/Images/flowchart.png)
+
 
 **Source code**
 ```
