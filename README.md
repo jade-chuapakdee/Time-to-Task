@@ -1,6 +1,7 @@
 # TimetoTask
 This repositories is just for collect my old microcontroller project. This project can't be clone and use or developed further since it will need exact electronic component and mcu that I developed.
 The MCU I used in this project is LPC1769.
+
 The LPC1769 is a microcontroller chip from NXP Semiconductors, belonging to the ARM Cortex-M3 family. It is widely used in embedded systems and offers features such as high performance, low power consumption, and a variety of peripherals. The LPC1769 is often employed in applications like industrial control, robotics, and other embedded systems that require a compact and efficient microcontroller.
 
 
