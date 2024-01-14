@@ -51,6 +51,26 @@ This project will help remind me about what I should do in particular time. It w
 ![Image alternative text](/Images/schematic.png)
 
 
+**Pictures**
+
+![Image alternative text](/Images/1.jpg)
+
+Press turn off
+![Image alternative text](/Images/2.jpg)
+
+Press turn on
+![Image alternative text](/Images/3.jpg)
+
+Press next
+![Image alternative text](/Images/4.jpg)
+
+Press back
+![Image alternative text](/Images/5.jpg)
+
+When a new Task comes up, the LED will blink and the buzzer will be on.
+![Image alternative text](/Images/6.jpg)
+
+
 **Source code**
 ```
 #include <stdio.h>
