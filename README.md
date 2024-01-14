@@ -19,6 +19,7 @@ This project will help remind me about what I should do in particular time. It w
 - Display time.
 - Display the current task.
 - Ability to reprogram the board.
+- poratble, no need to connect with pc all the time
 
 **Topic to apply in this project**
 - GPIO
