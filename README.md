@@ -36,8 +36,14 @@ This project will help remind me about what I should do in particular time. It w
 - Buzzer x 1
 - Cable wires
 
+**flow chart**
 ![Image alternative text](/Images/flowchart.png)
 
+**functional block diagram**
+![Image alternative text](/Images/functional_block.png)
+
+**Schematic diagram**
+![Image alternative text](/Images/schematic.png)
 
 **Source code**
 ```
