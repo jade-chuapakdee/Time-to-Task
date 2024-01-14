@@ -11,14 +11,14 @@ I wanted to do this project because this project will help me on time management
 This project will help remind me about what I should do in particular time. It will enhance productivity of users. I wanted it to display time as a clock too.
 
 **What is the functionality of this project?**
--Storing the entire day's timetable with timings.
--Sounding a buzzer indicating an incoming task.
--LED for indicating an incoming task.
--Be able to turn on and off with a switch.
--Button to go to the next/previous task.
--Display time.
--Display the current task.
--Ability to reprogram the board.
+- Storing the entire day's timetable with timings.
+- Sounding a buzzer indicating an incoming task.
+- LED for indicating an incoming task.
+- Be able to turn on and off with a switch.
+- Button to go to the next/previous task.
+- Display time.
+- Display the current task.
+- Ability to reprogram the board.
 
 **Topic to apply in this project**
 -GPIO
