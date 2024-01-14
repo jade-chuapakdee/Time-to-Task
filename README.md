@@ -38,6 +38,7 @@ This project will help remind me about what I should do in particular time. It w
 
 
 **Source code**
+```
 #include <stdio.h>
 #include "mbed.h"
 #include "SPI_TFT_ILI9341.h"
@@ -329,5 +330,6 @@ int main()
 
 
 }
+```
 
 
