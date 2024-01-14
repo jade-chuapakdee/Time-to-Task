@@ -21,20 +21,20 @@ This project will help remind me about what I should do in particular time. It w
 - Ability to reprogram the board.
 
 **Topic to apply in this project**
--GPIO
--Interrupt technique
--Timer (Real Time Clock)
--Pulse Width Modulation (PWM)
--LCD screen
+- GPIO
+- Interrupt technique
+- Timer (Real Time Clock)
+- Pulse Width Modulation (PWM)
+- LCD screen
 
 **Hardware Component**
--LPC1769
--BreadBoard x 1
--LCD screen (ILI9341 TFT) x 1
--LED x 1
--Push Button x 4
--Buzzer x 1
--Cable wires
+- LPC1769
+- BreadBoard x 1
+- LCD screen (ILI9341 TFT) x 1
+- LED x 1
+- Push Button x 4
+- Buzzer x 1
+- Cable wires
 
 
 **Source code**
