@@ -1,4 +1,4 @@
-# TimetoTask
+# Time to Task
 This repositories is just for collect my old microcontroller project. This project can't be clone and use or developed further since it will need exact electronic component and mcu that I developed.
 The MCU I used in this project is LPC1769.
 
